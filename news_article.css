@@ -1,0 +1,11 @@
+.introduction {
+  color: #f7325e;
+}
+
+h2, h3, h4.introduction {
+  font-size: 20px
+}
+
+h1.introduction {
+  text-align: center;
+}
