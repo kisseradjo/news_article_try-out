@@ -6,6 +6,7 @@ h2, h3, h4.introduction {
   font-size: 20px
 }
 
-h1.introduction {
+h1.troduction {
   text-align: center;
+  color: darkred;
 }
